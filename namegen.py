@@ -122,7 +122,7 @@ if __name__ == '__main__':
          ("plosiveVoiceless", "trap"): 1,
          ("plosiveVoiced", "trap"): 1,
          ("fricNsib",): 4,
-         ("frisNsib", "fricSibVoiced"): 1,
+         ("fricNsib", "fricSibVoiced"): 1,
          ("fricSibVoiceless",): 2,
          ("fricSibVoiced",): 4,
          ("fricSibVoiceless", "trap"): 1,
